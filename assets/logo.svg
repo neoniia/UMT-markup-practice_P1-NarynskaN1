@@ -1,0 +1,9 @@
+<svg width="122" height="55" viewBox="0 0 122 55" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Flora</title>
+  <text x="0" y="43" fill="#3F4740" font-family="Georgia, 'Times New Roman', serif" font-size="45" letter-spacing="-4">flóra</text>
+  <path d="M69 10c-6 2-8 7-7 13 6-1 11-5 11-12 0-1-2-2-4-1Z" fill="#84A884"/>
+  <path d="M56 13c-4-5-10-6-15-3 2 6 8 9 14 7 1-1 2-3 1-4Z" fill="#EEA79A"/>
+  <path d="M58 7c1-5 5-7 10-7 2 6 0 10-5 13-3 1-6-2-5-6Z" fill="#D8E86D"/>
+  <circle cx="58" cy="16" r="5" fill="#F3C2B5"/>
+  <path d="M58 20c-1 7-2 13-2 20" stroke="#516252" stroke-width="2" stroke-linecap="round"/>
+</svg>

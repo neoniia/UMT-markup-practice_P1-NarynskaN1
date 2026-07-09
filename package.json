@@ -1,0 +1,11 @@
+{
+  "name": "flora-lesson12-mobile-menu",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write \"**/*.{html,css,js,md}\""
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
